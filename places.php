@@ -32,7 +32,7 @@
     
 	  	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.php" style="font-size: 30px">Start Jounery</a>
+	      <a class="navbar-brand" href="index.php" style="font-size: 30px">Start Journey</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -127,7 +127,7 @@
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Start Jounery</h2>
+              <h2 class="ftco-heading-2">Start Journey</h2>
               <p>It's that wonderful time of year, when you start planning of amazing trips.Start Journey is smart traveler guide web application.</p>
             </div>
           </div>
