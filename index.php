@@ -55,7 +55,7 @@
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-9 ftco-animate mb-5 pb-5 text-center text-md-left" data-scrollax=" properties: { translateY: '70%' }">
             <h1 class="mb-4" data-scrollax="properties: { translateY: '30%'}" style="font-family: monospace;">Discover <br>A new Place</h1>
-            <h4 style="font-weight: 900;">Travel brings power and love back into life</h4>
+            <h4 style="font-weight: 900; color: white;">Travel brings power and love back into life</h4>
           </div>
         </div>
       </div>
