@@ -266,24 +266,21 @@
     </section>	
 		<section class="ftco-about d-md-flex">
         <div class="container">
-    	<div class="row">
+      <div class="row">
         <div class="col-lg-8">
           <img src="images/img1.jpg" class="col-lg-12"/>
         </div>
         <div class="col-lg-4">
-          <h1 align="center" style="color:teal; ">Chat With Me</h1>
-          <h3 style="font-family: monospace;"><script type="text/javascript">
-            var d=new Date();
-            if(d>=0 && d<12)
-              document.write("Good Morning !");
-            else if(d>=12 && d<17)
-              document.write("Good Afternoon !");
-            else 
-              document.write("Good Evening !");
-          </script></h3>
-          <p>Try to saying hello.</p>
           <br/><br/>
-          <iframe width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/a8d31ced-653b-420e-8a02-d14b849e04a6" class="col-lg-12"></iframe>
+          <h1 align="center" style="color:teal; ">Amazing Feature</h1>
+            <h2 style="color: pink; font-family: monospace;">
+              "Chat-Bot" - Human Natural Lanaguage Processing 
+            </h2>
+            <h2 style="color:purple;">Ask for information .</h2>
+            <br/><br/>
+            <h2 style="color:purple;">Ask for Places .</h2>
+            <br/><br/>
+            <h2 style="color:purple;">Ask for Near by Hotels .</h2>
         </div>
         </div>
       </div>
