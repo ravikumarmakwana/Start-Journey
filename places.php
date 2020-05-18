@@ -1,6 +1,6 @@
 <?php 
   include "db.php"; 
-  include 'chat.php';
+  include "chat.php";
 ?>
 
 <!DOCTYPE html>

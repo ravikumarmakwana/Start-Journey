@@ -1,4 +1,6 @@
-<?php include 'char.php';?>
+<?php 
+    include 'chat.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
