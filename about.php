@@ -1,3 +1,4 @@
+<?php include 'char.php';?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -62,8 +63,11 @@
     </div>
 		
 		<section class="ftco-about d-md-flex">
-    	<div class="one-half img" style="background-image: url(images/about.png);"></div>
+    	<div class="one-half img" style="background-image: url(images/admin.jpg);"></div>
     	<div class="one-half ftco-animate">
+        <div class="heading-section ftco-animate ">
+          <h2 class="mb-4" style="color: teal;">Ravikumar Makwana</h2>
+        </div>
         <div class="heading-section ftco-animate ">
           <h2 class="mb-4">The Best Travel Web Application</h2>
         </div>
@@ -98,8 +102,8 @@
               <div class="block-23 mb-3">
                 <ul>
                   <li><span class="icon icon-map-marker"></span><span class="text">Bhagavati Krupa,<br/> Vivekanand Nagar Street number.1,<br/> Rajkot-360002 </span></li>
-                  <li><a href="#"><span class="icon icon-phone"></span><span class="text">63545 08988</span></a></li>
-                  <li><a href="#"><span class="icon icon-envelope"></span><span class="text"> Ravi.1804.makwana@gmail.com</span></a></li>
+                  <li><a href="tel:6354508988"><span class="icon icon-phone"></span><span class="text">63545 08988</span></a></li>
+                  <li><a href="mailto:Ravi.1804.makwana@gmail.com"><span class="icon icon-envelope"></span><span class="text"> Ravi.1804.makwana@gmail.com</span></a></li>
                 </ul>
               </div>
             </div>

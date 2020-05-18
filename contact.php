@@ -1,3 +1,4 @@
+<?php include 'chat.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -126,8 +127,8 @@
               <div class="block-23 mb-3">
                 <ul>
                   <li><span class="icon icon-map-marker"></span><span class="text">Bhagavati Krupa,<br/> Vivekanand Nagar Street number.1,<br/> Rajkot-360002 </span></li>
-                  <li><a href="#"><span class="icon icon-phone"></span><span class="text">63545 08988</span></a></li>
-                  <li><a href="#"><span class="icon icon-envelope"></span><span class="text"> Ravi.1804.makwana@gmail.com</span></a></li>
+                  <li><a href="tel:6354508988"><span class="icon icon-phone"></span><span class="text">63545 08988</span></a></li>
+                  <li><a href="mailto:Ravi.1804.makwana@gmail.com"><span class="icon icon-envelope"></span><span class="text"> Ravi.1804.makwana@gmail.com</span></a></li>
                 </ul>
               </div>
             </div>
