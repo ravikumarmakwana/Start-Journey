@@ -266,21 +266,21 @@
     </section>	
 		<section class="ftco-about d-md-flex">
         <div class="container">
-      <div class="row">
+    	<div class="row">
         <div class="col-lg-8">
           <img src="images/img1.jpg" class="col-lg-12"/>
         </div>
         <div class="col-lg-4">
-          <br/><br/>
+        	<br/><br/>
           <h1 align="center" style="color:teal; ">Amazing Feature</h1>
-            <h2 style="color: pink; font-family: monospace;">
-              "Chat-Bot" - Human Natural Lanaguage Processing 
-            </h2>
-            <h2 style="color:purple;">Ask for information .</h2>
-            <br/><br/>
-            <h2 style="color:purple;">Ask for Places .</h2>
-            <br/><br/>
-            <h2 style="color:purple;">Ask for Near by Hotels .</h2>
+          	<h2 style="color: pink; font-family: monospace;">
+          		"Chat-Bot" - Human Natural Lanaguage Processing 
+          	</h2>
+          	<h2 style="color:purple;">Ask for information .</h2>
+          	<br/><br/>
+          	<h2 style="color:purple;">Ask for Places .</h2>
+          	<br/><br/>
+          	<h2 style="color:purple;">Ask for Near by Hotels .</h2>
         </div>
         </div>
       </div>

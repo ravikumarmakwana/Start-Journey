@@ -1,8 +1,4 @@
-<?php 
-  include "db.php"; 
-  include "chat.php";
-?>
-
+<?php include "db.php"; ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>

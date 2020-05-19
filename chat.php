@@ -8,10 +8,9 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 /* Button used to open the chat form - fixed at the bottom of the page */
 .open-button {
-  background-color: red;
-  color: white;
-  padding: 16px 20px;
-  border-radius: 100%;
+  background-image: url("chat.png");
+  height: 50px;
+  padding: 0px 25px;
   cursor: pointer;
   opacity: 0.8;
   position: fixed;
@@ -27,7 +26,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
   bottom: 0;
   right: 15px;
   border: 3px solid #f1f1f1;
-  z-index: 9;
+  z-index: 11;
 }
 
 /* Add styles to the form container */
@@ -79,7 +78,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 </head>
 <body>
 
-<button class="open-button" onclick="openForm()">Chat</button>
+<p class="open-button" onclick="openForm()"/>
 
 <div class="chat-popup" id="myForm">
   <form action="/action_page.php" class="form-container">
