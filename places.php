@@ -1,4 +1,7 @@
 <?php include "db.php"; ?>
+<?php
+  include 'chat.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -159,7 +162,7 @@
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved by <a target="_blank">Ravikumar Makwana</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved by <a target="_blank" href="https://ravi-kumar-makwana.herokuapp.com">Ravikumar Makwana</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>

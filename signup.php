@@ -1,5 +1,5 @@
 <?php include 'db.php';?>
-
+<?php include 'chat.php';?>
 <?php
 if(isset($_POST['signup']))
 {
