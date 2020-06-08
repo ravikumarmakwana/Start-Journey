@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <title>About</title>
-    <link href="logo.jpeg" rel="icon" type="image/jpeg"/>
+    <link href="logo.jpg" rel="icon" type="image/jpg"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
