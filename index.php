@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <title>Start Journey</title>
-    <link href="logo.jpeg" rel="icon"/>
+    <link href="logo.jpeg" rel="icon" type="image/jpeg"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -24,7 +24,6 @@
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="css/jquery.timepicker.css">
 
-    
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
