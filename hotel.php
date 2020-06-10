@@ -30,7 +30,7 @@
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
-    
+    <?php include 'chat.php';?>
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
 	      <a class="navbar-brand" href="index.php" style="font-size: 30px">Start Journey</a>
