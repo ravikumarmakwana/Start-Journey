@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <title>Start Journey</title>
-    <link href="logo.jpg" rel="icon" type="image/jpg"/>
+    <link rel="icon" type="image/jpeg" href="logo.jpeg"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="css/jquery.timepicker.css">
 
+    
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
@@ -357,7 +358,7 @@
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved by <a target="_blank"  href="https://ravi-kumar-makwana.herokuapp.com">Ravikumar Makwana</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved by <a target="_blank">Ravikumar Makwana</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>
